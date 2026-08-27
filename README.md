@@ -9,7 +9,7 @@
 >
 > It is published as a specification and planning artefact. For systems that are actually
 > built and tested, see
-> **[prediction-market-systems](https://github.com/pranay123-stack/prediction-market-systems)**.
+> **[prediction-market-algorithmic-trading](https://github.com/pranay123-stack/prediction-market-algorithmic-trading)**.
 
 ---
 
